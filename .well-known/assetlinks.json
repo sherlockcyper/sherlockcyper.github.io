@@ -1,8 +1,8 @@
-
+[{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.sherlockcyper.twa",
-        "sha256_cert_fingerprints": ["9F:C5:18:C3:79:F9:8D:41:D3:B7:DD:56:44:E9:F6:8E:23:D0:E4:FD:B7:62:DA:E0:AE:68:99:3C:D4:41:B9:8F"]
+        "sha256_cert_fingerprints": ["F4:1D:55:77:71:43:5E:F4:D4:E3:B0:99:FB:6E:51:4E:6B:F7:37:62:29:37:B6:A6:90:AE:41:DC:50:05:F3:EB"]
       }
     }]
